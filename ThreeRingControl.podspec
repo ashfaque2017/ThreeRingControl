@@ -6,6 +6,6 @@ Pod::Spec.new do |s|
   s.homepage     = "http://raywenderlich.com"
   s.license      = {:type => "MIT" }
   s.authors       = { "Ashfaque Mohammad" => "asmohammed@paypal.com" }
-  s.source       = { :path => "./ThreeRingControl/*.{h,swift}" }
+  s.source       = { :git => "https://github.com/ashfaque2017/ThreeRingControl.git", :tag => '1.0.0' }
   s.source_files  = "./ThreeRingControl/*.{h,swift}"
 end
