@@ -1,5 +1,4 @@
 Pod::Spec.new do |s|
-
   s.name         = "ThreeRingControl"
   s.version      = "1.0.0"
   s.summary      = "A three-ring control like the Activity status bars"
